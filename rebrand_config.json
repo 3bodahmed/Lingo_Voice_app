@@ -1,0 +1,9 @@
+{
+  "app_name": "LingoVoice",
+  "package_name": "com.example.mynewapp",
+  "icon_path": "assets/Logo.png",
+  "splash_config": {
+    "color": "#FFFFFF",
+    "image": "assets/Logo.png"
+  }
+}
