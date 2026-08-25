@@ -1,17 +1,40 @@
-# english_app
+# 🗣️ Lingo Voice App
 
-A new Flutter project.
+تطبيق **ترجمة وتعلم لغوي** ذكي، يتيح الترجمة الفورية بين **اللغة العربية والإنجليزية** والعكس. يعتمد التطبيق على **API** يوفر أكثر من **10,000 كلمة** مع ترجماتها، ويقدم **قصصاً قصيرة** و **أمثلة سياقية** لكل كلمة، مع تحكم كامل في **الصوت ومستوى الصوت (السرعة والارتفاع)** لتجربة تعلم غامرة.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### ما يقدمه التطبيق للمستخدم:
+- 🔄 **ترجمة فورية ثنائية الاتجاه**: بين العربية والإنجليزية (نصاً وصوتاً).
+- 📚 **قاموس غني (10,000+ كلمة)**: عبر اتصال بـ API يوفر ترجمات دقيقة.
+- 📖 **قصص قصيرة تفاعلية**: لتعزيز الفهم القرائي والسياقي.
+- ✍️ **أمثلة سياقية**: عند ترجمة أي كلمة، يعرض التطبيق جملًا مثالياً لفهم استخدامها.
+- 🔊 **تحكم كامل بالصوت**: تشغيل/إيقاف النطق، والتحكم في **سرعة الصوت (Rate)** و **طبقة الصوت (Pitch)**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ المميزات الرئيسية (Key Features)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **🔄 الترجمة الفورية (Instant Translation)**:
+  - ترجمة النصوص المكتوبة بين **العربية والإنجليزية** والعكس.
+  - إدخال النص عبر الكتابة).
+  - عرض الترجمة مع إمكانية الاستماع إليها صوتياً.
+
+- **📚 القاموس الغني (Rich Dictionary - 10,000+ Words)**:
+  - الاعتماد على **API خارجي** يوفر أكثر من 10,000 كلمة مترجمة.
+  - عرض الكلمة مع ترجمتها الدقيقة ونطقها الصحيح.
+
+- **✍️ الأمثلة السياقية (Contextual Examples)**:
+  - عند البحث عن أي كلمة أو ترجمتها، يعرض التطبيق **أمثلة وجملاً** توضح كيفية استخدام الكلمة في سياقها الصحيح (جمل مفيدة في الحياة اليومية).
+
+- **📖 القصص القصيرة (Short Stories)**:
+  - مجموعة من القصص القصيرة المترجمة (عربي/إنجليزي) لتعزيز مهارات القراءة والفهم.
+  - إمكانية الاستماع إلى القصة كاملة بصوت واضح.
+
+- **🔊 التحكم بالصوت ومستوى الصوت (Voice Control)**:
+  - زر **تشغيل/إيقاف** الصوت للنصوص المترجمة والكلمات.
+  - **التحكم في سرعة النطق (Rate)**: تسريع أو إبطاء الصوت حسب رغبة المستخدم.
+  - **التحكم في طبقة الصوت (Pitch)**: جعل الصوت عميقاً أو حاداً لتسهيل الفهم وتقليد النطق.
+
+--- *(اختر ما يناسب: GetX / Provider / Riverpod)* | إدارة حالة التطبيق |
+
+
